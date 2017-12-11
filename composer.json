@@ -1,0 +1,18 @@
+{
+    "name": "htl3r/flagpackage",
+    "description": "Flagpackage for use with the 4AI Demo",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Florian Weiss",
+            "email": "github@weissheiten.at"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HTL3R\\Flags\\": "src/HTL3R/Flags/"
+        }
+    },
+    "require": {}
+}
